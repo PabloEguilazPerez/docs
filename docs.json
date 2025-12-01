@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://api.pabloeguilaz.es/cdn/IMG_0212.JPG",
+    "dark": "https://api.pabloeguilaz.es/cdn/IMG_0212.JPG"
   },
   "navbar": {
     "links": [
